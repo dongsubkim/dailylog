@@ -9,9 +9,13 @@ assignees: dongsubkim
 
 # Daily Log 2021-
 
-## TODOs
+## TODO
 
- - [ ] a
- - [ ] b
- - [ ] c
- - [ ] d
+### [[LeetCode] ]()
+
+### [[Project Euler] ]()
+
+### [[Programmers] ]()
+
+### a
+- [ ] a
