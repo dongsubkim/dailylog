@@ -13,11 +13,18 @@ assignees: dongsubkim
 
 ### [[LeetCode] ]()
 
+#### My Solution in Go
+```
+
+```
 ### [[Project Euler] ]()
 
 ### [[Programmers] ]()
 
+#### My Solution in Python3
+```
+
+```
+
 ### [Go Web Programming](https://github.com/dongsubkim/go-web-programming)
 - [ ] Chapter
-
-### [Twitch Wide Screen Extension](https://github.com/dongsubkim/twitch-wide-screen-extension)
