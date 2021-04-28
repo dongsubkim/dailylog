@@ -14,7 +14,7 @@ assignees: dongsubkim
 ### [[LeetCode] ]()
 
 #### My Solution in Go
-```
+```go
 
 ```
 ### [[Project Euler] ]()
@@ -22,9 +22,12 @@ assignees: dongsubkim
 ### [[Programmers] ]()
 
 #### My Solution in Python3
-```
+```python
 
 ```
 
 ### [Go Web Programming](https://github.com/dongsubkim/go-web-programming)
 - [ ] Chapter
+
+### [My Blog](https://github.com/dongsubkim/myblog)
+- [ ] feature
