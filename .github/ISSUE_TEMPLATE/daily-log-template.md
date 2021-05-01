@@ -1,13 +1,13 @@
 ---
 name: Daily Log Template
 about: Daily Log Template
-title: Daily Log 2021-04
+title: Daily Log 2021-05
 labels: daily
 assignees: dongsubkim
 
 ---
 
-# Daily Log 2021-04
+# Daily Log 2021-05
 
 ## TODO
 
