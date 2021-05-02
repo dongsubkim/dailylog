@@ -22,7 +22,7 @@ assignees: dongsubkim
 ### [[Programmers] ]()
 
 #### My Solution in Python3
-```python
+```python3
 
 ```
 
